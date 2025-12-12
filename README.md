@@ -16,20 +16,21 @@ You are an expert Senior Frontend Engineer and UI/UX Designer. Your task is to b
 Please populate the site with the following details. If a field is empty, use a professional placeholder.
 
 **Personal Details:**
-- Full Name: {{FULL_NAME}}
-- Role/Title: {{CURRENT_ROLE}} (e.g., "Systems Engineer")
-- Tagline: {{SHORT_TAGLINE}}
-- Location: {{LOCATION}}
+- Full Name: {{Ansh}}}
+- Role/Title: {{Owner}} (e.g., "Systems Engineer")
+- Tagline: {{life is messed up
+}}
+- Location: {{Amravati}}
 
 **Education:**
-- University: {{UNIVERSITY_NAME}}
-- Degree: {{DEGREE_MAJOR}}
-- Grad Year: {{GRAD_YEAR}}
+- University: {{VIT-AP}}
+- Degree: {{right now in core branch}}
+- Grad Year: {{2029}}
 
 **Technical Skills:**
-- Languages: {{PROGRAMMING_LANGUAGES}}
-- Tools/Platforms: {{FRAMEWORKS_TOOLS}}
-- Core Concepts: {{CORE_CONCEPTS}}
+- Languages: {{python}}
+- Tools/Platforms: {{vs code}}
+- Core Concepts: {{git-hub}}
 
 **Projects (Highlight 2-3):**
 1. {{PROJECT_1_NAME}}: {{PROJECT_1_DESC}}
